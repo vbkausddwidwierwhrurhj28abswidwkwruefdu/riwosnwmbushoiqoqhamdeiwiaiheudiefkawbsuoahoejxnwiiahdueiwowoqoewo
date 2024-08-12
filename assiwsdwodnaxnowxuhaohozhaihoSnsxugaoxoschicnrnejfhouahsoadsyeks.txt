@@ -1,0 +1,913 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="Mexico | ADN 40" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/ADN40.png" group-title="Nacionales",Mexico | ADN 40
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/5
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="Mexico | ADN 40 | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/ADN40.png" group-title="Nacionales",Mexico | ADN 40 | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70208
+#EXTINF:-1 tvg-id="AymSports.mx" tvg-name="Mexico | AYM Sports" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/aym-sports.png" group-title="Deportes",Mexico | AYM Sports
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/7
+#EXTINF:-1 tvg-id="AZCinema.mx" tvg-name="Mexico | AZ Cinema" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/az-cinema.png" group-title="Entretenimiento",Mexico | AZ Cinema
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/8
+#EXTINF:-1 tvg-id="AZClic.mx" tvg-name="Mexico | AZ Clic" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/az-clic-3.png" group-title="Entretenimiento",Mexico | AZ Clic
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/9
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="Mexico | AZ Corazon" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/az-corazon-2.png" group-title="Entretenimiento",Mexico | AZ Corazon
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/10
+#EXTINF:-1 tvg-id="AZMundo.mx" tvg-name="Mexico | AZ Mundo" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/az-mundo.png" group-title="Entretenimiento",Mexico | AZ Mundo
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/11
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Mexico | Azteca 7" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/azteca-7.png" group-title="Nacionales",Mexico | Azteca 7
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/12
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Mexico | Azteca 7 | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/azteca-7.png" group-title="Nacionales",Mexico | Azteca 7 | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70209
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Mexico | Azteca Uno" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/azteca-uno-2.png" group-title="Nacionales",Mexico | Azteca Uno
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/13
+#EXTINF:-1 tvg-id="canalaprende.mx" tvg-name="Mexico | Azteca Uno -2 Hrs" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/azteca-uno-2.png" group-title="Nacionales",Mexico | Azteca Uno -2 Hrs
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/91648
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Mexico | Azteca Uno | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/azteca-uno-2.png" group-title="Nacionales",Mexico | Azteca Uno | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70210
+#EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="Mexico | Canal 5" tvg-logo="http://51.79.20.23/logos-fussion-smarters/canal5.png" group-title="Nacionales",Mexico | Canal 5
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/14
+#EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="Mexico | Canal 5 | HD" tvg-logo="http://51.79.20.23/logos-fussion-smarters/canal5.png" group-title="Nacionales",Mexico | Canal 5 | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70211
+#EXTINF:-1 tvg-id="GalaTV9Nacional.mx" tvg-name="Mexico | Canal Nueve" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/canal-9-3.png" group-title="Nacionales",Mexico | Canal Nueve
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/15
+#EXTINF:-1 tvg-id="GalaTV9Nacional.mx" tvg-name="Mexico | Canal Nueve | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/canal-9-3.png" group-title="Nacionales",Mexico | Canal Nueve | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70212
+#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="Mexico | Canal Once" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/canal-once-2.png" group-title="Nacionales",Mexico | Canal Once
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/16
+#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="Mexico | Canal Once | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/canal-once-2.png" group-title="Nacionales",Mexico | Canal Once | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70213
+#EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="Mexico | ESPN" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/espn.png" group-title="Deportes",Mexico | ESPN
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/17
+#EXTINF:-1 tvg-id="Espn2.mx" tvg-name="Mexico | ESPN 2" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/espn-2.png" group-title="Deportes",Mexico | ESPN 2
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/18
+#EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="Mexico | ESPN 3" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/espn-3.png" group-title="Deportes",Mexico | ESPN 3
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/19
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Mexico | ESPN Plus" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/espn-plus.png" group-title="Deportes",Mexico | ESPN Plus
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/20
+#EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="Mexico | Foro TV" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/foro-tv-2.png" group-title="Nacionales",Mexico | Foro TV
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/22
+#EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="Mexico | Foro TV | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/foro-tv-2.png" group-title="Nacionales",Mexico | Foro TV | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70214
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="Mexico | Fox Sports" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/fox-sports.png" group-title="Deportes",Mexico | Fox Sports
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/23
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="Mexico | FOX Sports 2" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/fox-sports-2.png" group-title="Deportes",Mexico | FOX Sports 2
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/24
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Mexico | FOX Sports 3" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/fox-sports-3.png" group-title="Deportes",Mexico | FOX Sports 3
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/25
+#EXTINF:-1 tvg-id="" tvg-name="Mexico | Fox Sports Premium" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/fox-sports-premium.png" group-title="Deportes",Mexico | Fox Sports Premium
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/101800
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Mexico | Imagen TV" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/imagen-tv-v2.jpg" group-title="Nacionales",Mexico | Imagen TV
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/26
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Mexico | Imagen TV | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/imagen-tv-v2.jpg" group-title="Nacionales",Mexico | Imagen TV | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70215
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Mexico | Las Estrellas" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/las-estrellas-2.png" group-title="Nacionales",Mexico | Las Estrellas
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/27
+#EXTINF:-1 tvg-id="" tvg-name="Mexico | Las Estrellas -2 Hrs" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/las-estrellas-2.png" group-title="Nacionales",Mexico | Las Estrellas -2 Hrs
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/91649
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Mexico | Las Estrellas | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/las-estrellas-2.png" group-title="Nacionales",Mexico | Las Estrellas | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70216
+#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-name="Mexico | Milenio TV" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/milenio-tv.png" group-title="Nacionales",Mexico | Milenio TV
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/29
+#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-name="Mexico | Milenio TV | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/milenio-tv.png" group-title="Nacionales",Mexico | Milenio TV | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70217
+#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="Mexico | Multimedios" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/canal-6.png" group-title="Nacionales",Mexico | Multimedios
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/30
+#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="Mexico | Multimedios Plus" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/canal-6.png" group-title="Nacionales",Mexico | Multimedios Plus
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/31
+#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="Mexico | Multimedios Plus | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/canal-6.png" group-title="Nacionales",Mexico | Multimedios Plus | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70219
+#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="Mexico | Multimedios | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/canal-6.png" group-title="Nacionales",Mexico | Multimedios | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70218
+#EXTINF:-1 tvg-id="SkySports16.mx" tvg-name="Mexico | Sky Sports 16 | La Liga" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/sky_sports_16.png" group-title="Deportes",Mexico | Sky Sports 16 | La Liga
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/91009
+#EXTINF:-1 tvg-id="SkySports24.mx" tvg-name="Mexico | Sky Sports 24 | Premier League" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/sky_sports_24.png" group-title="Deportes",Mexico | Sky Sports 24 | Premier League
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/91010
+#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="Mexico | Teleformula" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/teleformula-2.png" group-title="Nacionales",Mexico | Teleformula
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/32
+#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="Mexico | Teleformula | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/teleformula-2.png" group-title="Nacionales",Mexico | Teleformula | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70220
+#EXTINF:-1 tvg-id="TelehitHD.mx" tvg-name="Mexico | Telehit" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/telehit.png" group-title="Musica",Mexico | Telehit
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/33
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="Mexico | TUDN" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/tudn.png" group-title="Deportes",Mexico | TUDN
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/34
+#EXTINF:-1 tvg-id="TVCDeportes.mx" tvg-name="Mexico | TVC Deportes" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/tvc-deportes.png" group-title="Deportes",Mexico | TVC Deportes
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/35
+#EXTINF:-1 tvg-id="unicable.mx" tvg-name="Mexico | Unicable" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/unicable.png" group-title="Entretenimiento",Mexico | Unicable
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/36
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="Mexico | Televisa Monterrey" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/televisa-monterrey.jpg" group-title="Nacionales",Mexico | Televisa Monterrey
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/108908
+#EXTINF:-1 tvg-id="" tvg-name="Mexico | Televisa Guadalajara" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/televisa-guadalajara.png" group-title="Nacionales",Mexico | Televisa Guadalajara
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112571
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="Mexico | Azteca Deportes Network" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/azteca-deportes-network.png" group-title="Deportes",Mexico | Azteca Deportes Network
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/115894
+#EXTINF:-1 tvg-id="" tvg-name="Mexico | Televisa Cd Juarez" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/televisa-juarez.png" group-title="Nacionales",Mexico | Televisa Cd Juarez
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/118230
+#EXTINF:-1 tvg-id="" tvg-name="Mexico | Hi Sports" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/hi-sports.jpg" group-title="Deportes",Mexico | Hi Sports
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/119211
+#EXTINF:-1 tvg-id="" tvg-name="La Academia | Conciertos" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/la-academia-2024.jpg" group-title="La Academia",La Academia | Conciertos
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/103778
+#EXTINF:-1 tvg-id="" tvg-name="La Academia | 24/7" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/la-academia-2024.jpg" group-title="La Academia",La Academia | 24/7
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113666
+#EXTINF:-1 tvg-id="" tvg-name="Juegos Olimpicos | Op 1" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/juegos-olimpicos-paris-2024.jpg" group-title="Juegos Olimpicos Paris 2024",Juegos Olimpicos | Op 1
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/72174
+#EXTINF:-1 tvg-id="" tvg-name="Juegos Olimpicos | Op 2" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/juegos-olimpicos-paris-2024.jpg" group-title="Juegos Olimpicos Paris 2024",Juegos Olimpicos | Op 2
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/72175
+#EXTINF:-1 tvg-id="" tvg-name="Juegos Olimpicos | Op 3" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/juegos-olimpicos-paris-2024.jpg" group-title="Juegos Olimpicos Paris 2024",Juegos Olimpicos | Op 3
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/72176
+#EXTINF:-1 tvg-id="" tvg-name="Juegos Olimpicos | Op 4" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/juegos-olimpicos-paris-2024.jpg" group-title="Juegos Olimpicos Paris 2024",Juegos Olimpicos | Op 4
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/72177
+#EXTINF:-1 tvg-id="" tvg-name="Juegos Olimpicos | Op 5" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/juegos-olimpicos-paris-2024.jpg" group-title="Juegos Olimpicos Paris 2024",Juegos Olimpicos | Op 5
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/72178
+#EXTINF:-1 tvg-id="" tvg-name="Juegos Olimpicos | Op 6" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/juegos-olimpicos-paris-2024.jpg" group-title="Juegos Olimpicos Paris 2024",Juegos Olimpicos | Op 6
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/72179
+#EXTINF:-1 tvg-id="" tvg-name="Juegos Olimpicos | Op 7" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/juegos-olimpicos-paris-2024.jpg" group-title="Juegos Olimpicos Paris 2024",Juegos Olimpicos | Op 7
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/72180
+#EXTINF:-1 tvg-id="" tvg-name="Juegos Olimpicos | Op 8" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/juegos-olimpicos-paris-2024.jpg" group-title="Juegos Olimpicos Paris 2024",Juegos Olimpicos | Op 8
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/72181
+#EXTINF:-1 tvg-id="" tvg-name="Juegos Olimpicos | Op 9" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/juegos-olimpicos-paris-2024.jpg" group-title="Juegos Olimpicos Paris 2024",Juegos Olimpicos | Op 9
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/72182
+#EXTINF:-1 tvg-id="" tvg-name="Olympic Games | Op 1" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/juegos-olimpicos-paris-2024.jpg" group-title="Juegos Olimpicos Paris 2024",Olympic Games | Op 1
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/72183
+#EXTINF:-1 tvg-id="" tvg-name="Olympic Games | Op 2" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/juegos-olimpicos-paris-2024.jpg" group-title="Juegos Olimpicos Paris 2024",Olympic Games | Op 2
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/72184
+#EXTINF:-1 tvg-id="" tvg-name="Galas (Lunes a Viernes)" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/la-casa-de-los-famosos-mexico-2.jpg" group-title="La Casa de los Famosos",Galas (Lunes a Viernes)
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/72185
+#EXTINF:-1 tvg-id="" tvg-name="Galas (Domingos)" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/la-casa-de-los-famosos-mexico-2.jpg" group-title="La Casa de los Famosos",Galas (Domingos)
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/72186
+#EXTINF:-1 tvg-id="" tvg-name="Multicamaras" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/la-casa-de-los-famosos-mexico-2.jpg" group-title="La Casa de los Famosos",Multicamaras
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/72187
+#EXTINF:-1 tvg-id="" tvg-name="Toda la casa 24/7" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/la-casa-de-los-famosos-mexico-2.jpg" group-title="La Casa de los Famosos",Toda la casa 24/7
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/102539
+#EXTINF:-1 tvg-id="" tvg-name="Sala" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/la-casa-de-los-famosos-mexico-2.jpg" group-title="La Casa de los Famosos",Sala
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/102540
+#EXTINF:-1 tvg-id="" tvg-name="Cuarto Tierra" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/la-casa-de-los-famosos-mexico-2.jpg" group-title="La Casa de los Famosos",Cuarto Tierra
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113662
+#EXTINF:-1 tvg-id="" tvg-name="Cuarto Mar" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/la-casa-de-los-famosos-mexico-2.jpg" group-title="La Casa de los Famosos",Cuarto Mar
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113663
+#EXTINF:-1 tvg-id="" tvg-name="Cocina" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/la-casa-de-los-famosos-mexico-2.jpg" group-title="La Casa de los Famosos",Cocina
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113664
+#EXTINF:-1 tvg-id="" tvg-name="Baños" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/la-casa-de-los-famosos-mexico-2.jpg" group-title="La Casa de los Famosos",Baños
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113665
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | ESPN 2" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/espn-2-mx.png" group-title="Argentina",Argentina | ESPN 2
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/76030
+#EXTINF:-1 tvg-id="" tvg-name="Argentina | FOX Premium Sports" tvg-logo="" group-title="Argentina",Argentina | FOX Premium Sports
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/98486
+#EXTINF:-1 tvg-id="" tvg-name="Chile | TNT Sports" tvg-logo="http://51.79.20.23/logos-fussion-smarters/tnt-sports.png" group-title="Chile",Chile | TNT Sports
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/85997
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE ACCION HD 1" tvg-logo="" group-title="Cinema",CINE| CINE ACCION HD 1
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113676
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE ACCION SAGAS HD" tvg-logo="" group-title="Cinema",CINE| CINE ACCION SAGAS HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113678
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE ACCION SAGAS HD 1" tvg-logo="" group-title="Cinema",CINE| CINE ACCION SAGAS HD 1
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113677
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE COMDEDIA 1 HD" tvg-logo="" group-title="Cinema",CINE| CINE COMDEDIA 1 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113679
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE COMEDIA 2 HD *" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="Cinema",CINE| CINE COMEDIA 2 HD *
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113672
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE COMEDIA HD*" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="Cinema",CINE| CINE COMEDIA HD*
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113671
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE DRAMA HD" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="Cinema",CINE| CINE DRAMA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113675
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE FANTASIA HD" tvg-logo="" group-title="Cinema",CINE| CINE FANTASIA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113681
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE FANTASIAS SAGAS HD" tvg-logo="" group-title="Cinema",CINE| CINE FANTASIAS SAGAS HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113682
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE FICCION  HD" tvg-logo="" group-title="Cinema",CINE| CINE FICCION  HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113680
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE INFANTIL 1 HD" tvg-logo="" group-title="Cinema",CINE| CINE INFANTIL 1 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113684
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE INFANTIL HD" tvg-logo="" group-title="Cinema",CINE| CINE INFANTIL HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113683
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE INFANTIL SAGAS HD" tvg-logo="" group-title="Cinema",CINE| CINE INFANTIL SAGAS HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113685
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE MARVEL 1 HD" tvg-logo="" group-title="Cinema",CINE| CINE MARVEL 1 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113687
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE MARVEL HD" tvg-logo="" group-title="Cinema",CINE| CINE MARVEL HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113686
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE ROMANCE HD" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="Cinema",CINE| CINE ROMANCE HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113673
+#EXTINF:-1 tvg-id="" tvg-name="CINE| CINE ROMANTICO HD" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="Cinema",CINE| CINE ROMANTICO HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113674
+#EXTINF:-1 tvg-id="" tvg-name="CINE| MARVEL MOVIES HD" tvg-logo="" group-title="Cinema",CINE| MARVEL MOVIES HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113688
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="Latinos | A&E" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/a&e.png" group-title="Entretenimiento",Latinos | A&E
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/604
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="Latinos | A&E | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/a&e.png" group-title="Entretenimiento",Latinos | A&E | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70393
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="Latinos | AMC" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/amc.png" group-title="Entretenimiento",Latinos | AMC
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/605
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="Latinos | AMC | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/amc.png" group-title="Entretenimiento",Latinos | AMC | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70395
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Latinos | Animal Planet" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/animal-planet.png" group-title="Cultura",Latinos | Animal Planet
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/606
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Latinos | Animal Planet | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/animal-planet.png" group-title="Cultura",Latinos | Animal Planet | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70221
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="Latinos | AXN" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/axn.png" group-title="Entretenimiento",Latinos | AXN
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/608
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="Latinos | AXN | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/axn.png" group-title="Entretenimiento",Latinos | AXN | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70396
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Latinos | BabyTV" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/baby-tv.png" group-title="Infantiles",Latinos | BabyTV
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/609
+#EXTINF:-1 tvg-id="BloombergTV.mx" tvg-name="Latinos | Bloomberg" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/bloomberg.png" group-title="Noticias",Latinos | Bloomberg
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/610
+#EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="Latinos | Boomerang" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/boomerang.png" group-title="Infantiles",Latinos | Boomerang
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/611
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Latinos | Cartoon Network" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/cartoon-network.png" group-title="Infantiles",Latinos | Cartoon Network
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/614
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Latinos | Cinecanal" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/cinecanal-3.png" group-title="Cinema",Latinos | Cinecanal
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/616
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="Latinos | Cinelatino" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/cinelatino-2.png" group-title="Cinema",Latinos | Cinelatino
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/617
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Latinos | Cinemax" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/cinemax-2.png" group-title="Cinema",Latinos | Cinemax
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/619
+#EXTINF:-1 tvg-id="CableNewsNetwork.mx" tvg-name="Latinos | CNN Espanol" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/cnn-espanol.png" group-title="Noticias",Latinos | CNN Espanol
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/621
+#EXTINF:-1 tvg-id="US: WGN AMERICA" tvg-name="Latinos | CNN Internacional" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/cnn-internacional.png" group-title="Noticias",Latinos | CNN Internacional
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/622
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Latinos | Comedy Central" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/comedy-central-nuevo.png" group-title="Entretenimiento",Latinos | Comedy Central
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/623
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="Latinos | De Pelicula" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/d-pelicula.png" group-title="Cinema",Latinos | De Pelicula
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/624
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Latinos | Discovery Channel" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/discovery-channel.png" group-title="Cultura",Latinos | Discovery Channel
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/626
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Latinos | Discovery Channel | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/discovery-channel.png" group-title="Cultura",Latinos | Discovery Channel | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70222
+#EXTINF:-1 tvg-id="discoverycivilization.mx" tvg-name="Latinos | Discovery Civilization" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/discovery-civilization-2.png" group-title="Cultura",Latinos | Discovery Civilization
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/627
+#EXTINF:-1 tvg-id="discoverycivilization.mx" tvg-name="Latinos | Discovery Civilization | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/discovery-civilization-2.png" group-title="Cultura",Latinos | Discovery Civilization | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70223
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="Latinos | Discovery H&H" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/discovery-hh.png" group-title="Cultura",Latinos | Discovery H&H
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/628
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="Latinos | Discovery H&H | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/discovery-hh.png" group-title="Cultura",Latinos | Discovery H&H | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70224
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Latinos | Discovery Kids" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/discovery-kids.png" group-title="Infantiles",Latinos | Discovery Kids
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/629
+#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="Latinos | Discovery Science" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/discovery-science-2.png" group-title="Cultura",Latinos | Discovery Science
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/630
+#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="Latinos | Discovery Science | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/discovery-science-2.png" group-title="Cultura",Latinos | Discovery Science | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70225
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Latinos | Discovery Theater" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/discovery-theater.png" group-title="Cultura",Latinos | Discovery Theater
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/631
+#EXTINF:-1 tvg-id="Canal Discovery Theater (LatinoamÃƒÂ©rica)" tvg-name="Latinos | Discovery Theater | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/discovery-theater.png" group-title="Cultura",Latinos | Discovery Theater | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70226
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="Latinos | Discovery TLC" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/discovery-tlc.png" group-title="Entretenimiento",Latinos | Discovery TLC
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/632
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="Latinos | Discovery TLC | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/discovery-tlc.png" group-title="Entretenimiento",Latinos | Discovery TLC | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70397
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="Latinos | Discovery Turbo" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/discovery-turbo.png" group-title="Cultura",Latinos | Discovery Turbo
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/633
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="Latinos | Discovery Turbo | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/discovery-turbo.png" group-title="Cultura",Latinos | Discovery Turbo | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70227
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Latinos | Discovery World" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/discovery-world.png" group-title="Cultura",Latinos | Discovery World
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/634
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="Latinos | Discovery World | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/discovery-world.png" group-title="Cultura",Latinos | Discovery World | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70228
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Latinos | Disney Channel" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/disney-channel.png" group-title="Infantiles",Latinos | Disney Channel
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/635
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Latinos | Disney Jr" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/disney-jr.png" group-title="Infantiles",Latinos | Disney Jr
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/636
+#EXTINF:-1 tvg-id="disneyxd.mx" tvg-name="Latinos | Disney XD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/disney-xd.png" group-title="Infantiles",Latinos | Disney XD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/637
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Latinos | Distrito Comedia" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/distrito-comedia.png" group-title="Entretenimiento",Latinos | Distrito Comedia
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/638
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="Latinos | E! Entertainment" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/e-entertainment.png" group-title="Entretenimiento",Latinos | E! Entertainment
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/639
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="Latinos | E! Entertainment | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/e-entertainment.png" group-title="Entretenimiento",Latinos | E! Entertainment | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70398
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="Latinos | El Gourmet" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/el-gourmet.png" group-title="Entretenimiento",Latinos | El Gourmet
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/640
+#EXTINF:-1 tvg-id="foodnetwork.mx" tvg-name="Latinos | Food Network" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/food-network.png" group-title="Entretenimiento",Latinos | Food Network
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/38
+#EXTINF:-1 tvg-id="Star.mx" tvg-name="Latinos | Star Channel" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/star-channel-2.png" group-title="Entretenimiento",Latinos | Star Channel
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/39
+#EXTINF:-1 tvg-id="Star.mx" tvg-name="Latinos | FOX | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/star-channel-2.png" group-title="Entretenimiento",Latinos | FOX | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70399
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="Latinos | FX" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/fx-2.png" group-title="Entretenimiento",Latinos | FX
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/52
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Latinos | Glitz" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/glitz.png" group-title="Entretenimiento",Latinos | Glitz
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/55
+#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-name="Latinos | Golden Plus" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/golden-plus-2.png" group-title="Cinema",Latinos | Golden Plus
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/56
+#EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-name="Latinos | Golden Premier 2" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/golden-premier-3.png" group-title="Cinema",Latinos | Golden Premier 2
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/57
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Latinos | Golden Premiere" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/golden-premier-3.png" group-title="Cinema",Latinos | Golden Premiere
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/58
+#EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="Latinos | Golf Latin America" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/golf-latin-america.png" group-title="Deportes",Latinos | Golf Latin America
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/59
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="Latinos | H2" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/h2.png" group-title="Cultura",Latinos | H2
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/60
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="Latinos | H2 | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/h2.png" group-title="Cultura",Latinos | H2 | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70229
+#EXTINF:-1 tvg-id="421" tvg-name="Latinos | HBO" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/hbo-3.png" group-title="Cinema",Latinos | HBO
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/61
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="Latinos | HBO 2" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/hbo-2-3.png" group-title="Cinema",Latinos | HBO 2
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/62
+#EXTINF:-1 tvg-id="423" tvg-name="Latinos | HBO Family" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/hbo-family.png" group-title="Cinema",Latinos | HBO Family
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/63
+#EXTINF:-1 tvg-id="424" tvg-name="Latinos | HBO Mundi" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/hbo-mundi-2.png" group-title="Cinema",Latinos | HBO Mundi
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/72
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Latinos | HBO Plus" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/hbo-plus-2.png" group-title="Cinema",Latinos | HBO Plus
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/64
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Latinos | HBO Pop" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/hbo-pop-2.png" group-title="Cinema",Latinos | HBO Pop
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/73
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="Latinos | HBO Signature" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/hbo-signature.png" group-title="Cinema",Latinos | HBO Signature
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/65
+#EXTINF:-1 tvg-id="hboxtreme.mx" tvg-name="Latinos | HBO Xtreme" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/hbo-xtreme2.png" group-title="Cinema",Latinos | HBO Xtreme
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/117299
+#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="Latinos | History" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/history.png" group-title="Cultura",Latinos | History
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/66
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="Latinos | History | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/history.png" group-title="Cultura",Latinos | History | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70230
+#EXTINF:-1 tvg-id="HolaTv.co" tvg-name="Latinos | Hola TV" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/hola-tv.png" group-title="Entretenimiento",Latinos | Hola TV
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/67
+#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="Latinos | Investigation Discovery" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/investigation-discovery-2.png" group-title="Cultura",Latinos | Investigation Discovery
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/68
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="Latinos | Investigation Discovery | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/investigation-discovery-2.png" group-title="Cultura",Latinos | Investigation Discovery | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70231
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Latinos | Lifetime" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/lifetime.png" group-title="Entretenimiento",Latinos | Lifetime
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70
+#EXTINF:-1 tvg-id="MasChic.co" tvg-name="Latinos | Mas Chic" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/mas-chic.png" group-title="Entretenimiento",Latinos | Mas Chic
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/71
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="Latinos | MTV" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/mtv.png" group-title="Musica",Latinos | MTV
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/74
+#EXTINF:-1 tvg-id="EPG123.67787.schedulesdirect.org" tvg-name="Latinos | MTV Hits" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/mtv-hits.png" group-title="Musica",Latinos | MTV Hits
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/75
+#EXTINF:-1 tvg-id="EPG123.66419.schedulesdirect.org" tvg-name="Latinos | MTV Live" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/mtv-live.png" group-title="Musica",Latinos | MTV Live
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/76
+#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="Latinos | Nat Geo" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/nat-geo-2.png" group-title="Cultura",Latinos | Nat Geo
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/78
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Latinos | Nat Geo Wild" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/nat-geo-wild.png" group-title="Cultura",Latinos | Nat Geo Wild
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/80
+#EXTINF:-1 tvg-id="natgeowild.mx" tvg-name="Latinos | Nat Geo Wild | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/nat-geo-wild.png" group-title="Cultura",Latinos | Nat Geo Wild | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70233
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="Latinos | Nat Geo | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/nat-geo-2.png" group-title="Cultura",Latinos | Nat Geo | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70232
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Latinos | Nick Jr" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/nick-jr.png" group-title="Infantiles",Latinos | Nick Jr
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/82
+#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="Latinos | Nickelodeon" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/nickelodeon.png" group-title="Infantiles",Latinos | Nickelodeon
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/83
+#EXTINF:-1 tvg-id="NickTeen.mx" tvg-name="Latinos | NickToons" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/nicktoons.png" group-title="Infantiles",Latinos | NickToons
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/84
+#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="Latinos | Paramount Channel" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/paramount-channel.png" group-title="Cinema",Latinos | Paramount Channel
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/85
+#EXTINF:-1 tvg-id="" tvg-name="Latinos | Pasiones" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/pasiones.png" group-title="Entretenimiento",Latinos | Pasiones
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/86
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="Latinos | Sony" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/sony.png" group-title="Entretenimiento",Latinos | Sony
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/90
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="Latinos | Sony | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/sony.png" group-title="Entretenimiento",Latinos | Sony | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70411
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="Latinos | Space" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/space.png" group-title="Entretenimiento",Latinos | Space
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/91
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="Latinos | Space | HD" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/space.png" group-title="Entretenimiento",Latinos | Space | HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/70412
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Latinos | Studio Universal" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/studio-universal-3.png" group-title="Cinema",Latinos | Studio Universal
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/92
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="Latinos | TCM" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/tcm-3.png" group-title="Cinema",Latinos | TCM
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/96
+#EXTINF:-1 tvg-id="telemundo.mx" tvg-name="Latinos | Telemundo Internacional" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/telemundo-internacional-2.png" group-title="Entretenimiento",Latinos | Telemundo Internacional
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/97
+#EXTINF:-1 tvg-id="TeleNovelas.mx" tvg-name="Latinos | TLnovelas" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/tlnovelas-2.png" group-title="Entretenimiento",Latinos | TLnovelas
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/99
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="Latinos | TNT" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/tnt-2.png" group-title="Cinema",Latinos | TNT
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/100
+#EXTINF:-1 tvg-id="" tvg-name="Latinos | TNT Novelas" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/tnt-novelas.png" group-title="Entretenimiento",Latinos | TNT Novelas
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/116630
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="Latinos | TNT Series" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/tnt-series-2.png" group-title="Entretenimiento",Latinos | TNT Series
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/101
+#EXTINF:-1 tvg-id="tooncast.mx" tvg-name="Latinos | Tooncast" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/tooncast.png" group-title="Infantiles",Latinos | Tooncast
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/102
+#EXTINF:-1 tvg-id="TYCINTL" tvg-name="Latinos | TyC Sports" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/tyc-sports.png" group-title="Deportes",Latinos | TyC Sports
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/104
+#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="Latinos | Universal Channel" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/universal-channel.png" group-title="Cinema",Latinos | Universal Channel
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105
+#EXTINF:-1 tvg-id="" tvg-name="Latinos | Universal Cinema" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/universal-cinema.png" group-title="Cinema",Latinos | Universal Cinema
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/110940
+#EXTINF:-1 tvg-id="" tvg-name="Latinos | Universal Comedy" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/universal-comedy.webp" group-title="Cinema",Latinos | Universal Comedy
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/110944
+#EXTINF:-1 tvg-id="" tvg-name="Latinos | Universal Crime" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/universal-crime.webp" group-title="Cinema",Latinos | Universal Crime
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/110942
+#EXTINF:-1 tvg-id="" tvg-name="Latinos | Universal Premiere" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/universal-premiere.png" group-title="Cinema",Latinos | Universal Premiere
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/110941
+#EXTINF:-1 tvg-id="" tvg-name="Latinos | Universal Reality" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/universal-reality.webp" group-title="Cinema",Latinos | Universal Reality
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/110943
+#EXTINF:-1 tvg-id="VH1.mx" tvg-name="Latinos | VH1" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/vh1.png" group-title="Musica",Latinos | VH1
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/106
+#EXTINF:-1 tvg-id="EPG123.90325.schedulesdirect.org" tvg-name="Latinos | VH1 Classics" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/vh1-classic.png" group-title="Musica",Latinos | VH1 Classics
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/107
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Latinos | Warner Channel" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/warner-channel.png" group-title="Entretenimiento",Latinos | Warner Channel
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/108
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="USA Latinos | Bein LaLiga" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/bein-sports-laliga-2.png" group-title="Deportes",USA Latinos | Bein LaLiga
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/146
+#EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-name="USA Latinos | Bein Sports N" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/bein-sports-n-2.png" group-title="Deportes",USA Latinos | Bein Sports N
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/148
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="USA Latinos | El Rey" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/el-rey.png" group-title="Entretenimiento",USA Latinos | El Rey
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/110
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="USA Latinos | ESPN Deportes" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/espn-deportes.png" group-title="Deportes",USA Latinos | ESPN Deportes
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/111
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="USA Latinos | Estrella TV" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/estrella-tv.png" group-title="Entretenimiento",USA Latinos | Estrella TV
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/37
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="USA Latinos | FOX Deportes" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/fox-deportes.png" group-title="Deportes",USA Latinos | FOX Deportes
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112
+#EXTINF:-1 tvg-id="Galavision.us" tvg-name="USA Latinos | Galavision" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/galavision-2.png" group-title="Entretenimiento",USA Latinos | Galavision
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/54
+#EXTINF:-1 tvg-id="NBCUniverso.us" tvg-name="USA Latinos | NBC Universo" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/nbc-universo.png" group-title="Entretenimiento",USA Latinos | NBC Universo
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/113
+#EXTINF:-1 tvg-id="telemundowriwcd.us" tvg-name="USA Latinos | Telemundo Boston" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/telemundo-boston.jpg" group-title="Entretenimiento",USA Latinos | Telemundo Boston
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/102517
+#EXTINF:-1 tvg-id="KVEA.us" tvg-name="USA Latinos | Telemundo LA" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/telemundo-52-3.png" group-title="Entretenimiento",USA Latinos | Telemundo LA
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/114
+#EXTINF:-1 tvg-id="WSCV.us" tvg-name="USA Latinos | Telemundo Miami" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/telemundo-51-2.png" group-title="Entretenimiento",USA Latinos | Telemundo Miami
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/115
+#EXTINF:-1 tvg-id="WNJU.us" tvg-name="USA Latinos | Telemundo NY" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/telemundo-47-3.png" group-title="Entretenimiento",USA Latinos | Telemundo NY
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/116
+#EXTINF:-1 tvg-id="telemundowriwcd.us" tvg-name="USA Latinos | Telemundo Providence" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/telemundo-providence.jpg" group-title="Entretenimiento",USA Latinos | Telemundo Providence
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/102516
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="USA Latinos | TUDN" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/tudn.png" group-title="Deportes",USA Latinos | TUDN
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/119
+#EXTINF:-1 tvg-id="UniMas.us" tvg-name="USA Latinos | UniMas" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/unimas-2.png" group-title="Entretenimiento",USA Latinos | UniMas
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/117
+#EXTINF:-1 tvg-id="WXTV.us.us" tvg-name="USA Latinos | Univision" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/univision.png" group-title="Entretenimiento",USA Latinos | Univision
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/118
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Univision NOTICIAS 24/7" tvg-logo="http://miarea.vip:8080/images/f1c228bea17df48f66a976a9e83b5bb9.png" group-title="USA Latinos",USA Latinos | Univision NOTICIAS 24/7
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112806
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Univision HD" tvg-logo="http://miarea.vip:8080/images/b39e9d07ddf3f7b5a812cff9750699ed.png" group-title="USA Latinos",USA Latinos | Univision HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112807
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Univision NEW MEXICO HD" tvg-logo="http://miarea.vip:8080/images/da0f5e18cfe3ef77b2206ef57b0df77f.png" group-title="USA Latinos",USA Latinos | Univision NEW MEXICO HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112808
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Univision MIAMI HD" tvg-logo="http://miarea.vip:8080/images/da0f5e18cfe3ef77b2206ef57b0df77f.png" group-title="USA Latinos",USA Latinos | Univision MIAMI HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112809
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Univision TELENOVELAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Univision_tlnovelas_logo.png/200px-Univision_tlnovelas_logo.png" group-title="USA Latinos",USA Latinos | Univision TELENOVELAS HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112810
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Univision NEW YORK HD" tvg-logo="http://miarea.vip:8080/images/da0f5e18cfe3ef77b2206ef57b0df77f.png" group-title="USA Latinos",USA Latinos | Univision NEW YORK HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112811
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Univision ATLANTA HD" tvg-logo="http://miarea.vip:8080/images/b39e9d07ddf3f7b5a812cff9750699ed.png" group-title="USA Latinos",USA Latinos | Univision ATLANTA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112812
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Univision SAN ANTONIO HD" tvg-logo="http://miarea.vip:8080/images/da0f5e18cfe3ef77b2206ef57b0df77f.png" group-title="USA Latinos",USA Latinos | Univision SAN ANTONIO HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112813
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Univision CHICAGO HD" tvg-logo="http://miarea.vip:8080/images/da0f5e18cfe3ef77b2206ef57b0df77f.png" group-title="USA Latinos",USA Latinos | Univision CHICAGO HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112814
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Univision AUSTIN HD" tvg-logo="http://miarea.vip:8080/images/b39e9d07ddf3f7b5a812cff9750699ed.png" group-title="USA Latinos",USA Latinos | Univision AUSTIN HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112815
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Univision SAN FRANCISCO HD" tvg-logo="http://miarea.vip:8080/images/b39e9d07ddf3f7b5a812cff9750699ed.png" group-title="USA Latinos",USA Latinos | Univision SAN FRANCISCO HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112816
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Univision ALBUQUERQUE SANTA FE HD" tvg-logo="http://miarea.vip:8080/images/b39e9d07ddf3f7b5a812cff9750699ed.png" group-title="USA Latinos",USA Latinos | Univision ALBUQUERQUE SANTA FE HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112817
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Univision MCALLEN TEXAS HD*" tvg-logo="http://miarea.vip:8080/images/b39e9d07ddf3f7b5a812cff9750699ed.png" group-title="USA Latinos",USA Latinos | Univision MCALLEN TEXAS HD*
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112818
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Univision LOS ANGELES HD" tvg-logo="http://miarea.vip:8080/images/da0f5e18cfe3ef77b2206ef57b0df77f.png" group-title="USA Latinos",USA Latinos | Univision LOS ANGELES HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112819
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Univision HOUSTON HD" tvg-logo="http://miarea.vip:8080/images/da0f5e18cfe3ef77b2206ef57b0df77f.png" group-title="USA Latinos",USA Latinos | Univision HOUSTON HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112820
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Univision DENVER HD" tvg-logo="http://miarea.vip:8080/images/da0f5e18cfe3ef77b2206ef57b0df77f.png" group-title="USA Latinos",USA Latinos | Univision DENVER HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112821
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | UNNIVISION RALEIGH N.C HD" tvg-logo="http://miarea.vip:8080/images/da0f5e18cfe3ef77b2206ef57b0df77f.png" group-title="USA Latinos",USA Latinos | UNNIVISION RALEIGH N.C HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112822
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Univision DALLAS TX HD" tvg-logo="http://miarea.vip:8080/images/b39e9d07ddf3f7b5a812cff9750699ed.png" group-title="USA Latinos",USA Latinos | Univision DALLAS TX HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112823
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Univision PHILADELPHIA HD" tvg-logo="http://miarea.vip:8080/images/b39e9d07ddf3f7b5a812cff9750699ed.png" group-title="USA Latinos",USA Latinos | Univision PHILADELPHIA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112824
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Univision PHOENIX HD" tvg-logo="http://miarea.vip:8080/images/b39e9d07ddf3f7b5a812cff9750699ed.png" group-title="USA Latinos",USA Latinos | Univision PHOENIX HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112825
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Univision  SALK LAKE HD" tvg-logo="http://miarea.vip:8080/images/b39e9d07ddf3f7b5a812cff9750699ed.png" group-title="USA Latinos",USA Latinos | Univision  SALK LAKE HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112826
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Univision FORT LAUDERDALE HD" tvg-logo="http://miarea.vip:8080/images/b39e9d07ddf3f7b5a812cff9750699ed.png" group-title="USA Latinos",USA Latinos | Univision FORT LAUDERDALE HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112827
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Univision 21 FRESNO HD" tvg-logo="http://miarea.vip:8080/images/b39e9d07ddf3f7b5a812cff9750699ed.png" group-title="USA Latinos",USA Latinos | Univision 21 FRESNO HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112828
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Galavision HD" tvg-logo="http://miarea.vip:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="USA Latinos",USA Latinos | Galavision HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112829
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Galavision MIAMI HD" tvg-logo="http://miarea.vip:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="USA Latinos",USA Latinos | Galavision MIAMI HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112830
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Galavision NEW YORK HD" tvg-logo="http://miarea.vip:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="USA Latinos",USA Latinos | Galavision NEW YORK HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112831
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Galavision LOS ANGELES HD" tvg-logo="http://miarea.vip:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="USA Latinos",USA Latinos | Galavision LOS ANGELES HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112832
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Galavision DALLAS HD" tvg-logo="http://miarea.vip:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="USA Latinos",USA Latinos | Galavision DALLAS HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112833
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Galavision RALEIGTH" tvg-logo="http://miarea.vip:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="USA Latinos",USA Latinos | Galavision RALEIGTH
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112834
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Galavision CLEVELAND HD" tvg-logo="http://miarea.vip:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="USA Latinos",USA Latinos | Galavision CLEVELAND HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112835
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Galavision AUSTIN TX HD" tvg-logo="http://miarea.vip:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="USA Latinos",USA Latinos | Galavision AUSTIN TX HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112836
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | ALBUQUERQUE SANTA FE HD" tvg-logo="http://miarea.vip:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="USA Latinos",USA Latinos | ALBUQUERQUE SANTA FE HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112837
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Galavision ATLANTA HD" tvg-logo="http://miarea.vip:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="USA Latinos",USA Latinos | Galavision ATLANTA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112838
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Galavision HOUSTON HD" tvg-logo="http://miarea.vip:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="USA Latinos",USA Latinos | Galavision HOUSTON HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112839
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Galavision FRESNO HD" tvg-logo="http://miarea.vip:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="USA Latinos",USA Latinos | Galavision FRESNO HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112840
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Galavision LAS VEGAS HD" tvg-logo="http://miarea.vip:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="USA Latinos",USA Latinos | Galavision LAS VEGAS HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112841
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Galavision PHILADELPHIA HD" tvg-logo="http://miarea.vip:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="USA Latinos",USA Latinos | Galavision PHILADELPHIA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112842
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Galavision PHOENIX HD" tvg-logo="http://miarea.vip:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="USA Latinos",USA Latinos | Galavision PHOENIX HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112843
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Galavision RALEIGTH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA Latinos",USA Latinos | Galavision RALEIGTH HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112844
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Galavision SACRAMENTO HD" tvg-logo="http://miarea.vip:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="USA Latinos",USA Latinos | Galavision SACRAMENTO HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112845
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Galavision SAT LAKE HD" tvg-logo="http://miarea.vip:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="USA Latinos",USA Latinos | Galavision SAT LAKE HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112846
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Galavision SAN ANTONIO HD" tvg-logo="http://miarea.vip:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="USA Latinos",USA Latinos | Galavision SAN ANTONIO HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112847
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Galavision SAN FRANCISCO HD" tvg-logo="http://miarea.vip:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="USA Latinos",USA Latinos | Galavision SAN FRANCISCO HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112848
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo INTERNACIONAL FHD*" tvg-logo="http://miarea.vip:8080/images/855629a668a82e6da2d1254f0bccf6f9.png" group-title="USA Latinos",USA Latinos | Telemundo INTERNACIONAL FHD*
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112849
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | TELEMNDO MCALLEN TX *" tvg-logo="http://miarea.vip:8080/images/855629a668a82e6da2d1254f0bccf6f9.png" group-title="USA Latinos",USA Latinos | TELEMNDO MCALLEN TX *
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112850
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo HOUSTON HD" tvg-logo="http://miarea.vip:8080/images/855629a668a82e6da2d1254f0bccf6f9.png" group-title="USA Latinos",USA Latinos | Telemundo HOUSTON HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112851
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo 47 NEW YORK HD" tvg-logo="http://miarea.vip:8080/images/a5aaf5c567a43261e123eecbed9c65df.png" group-title="USA Latinos",USA Latinos | Telemundo 47 NEW YORK HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112852
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo 51 MIAMI HD" tvg-logo="http://miarea.vip:8080/images/8af66698dd6133e4576a2dc20e172678.png" group-title="USA Latinos",USA Latinos | Telemundo 51 MIAMI HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112853
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo 52 LOS ANGELES HD" tvg-logo="http://miarea.vip:8080/images/855629a668a82e6da2d1254f0bccf6f9.png" group-title="USA Latinos",USA Latinos | Telemundo 52 LOS ANGELES HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112854
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo  BOSTON HD" tvg-logo="http://miarea.vip:8080/images/855629a668a82e6da2d1254f0bccf6f9.png" group-title="USA Latinos",USA Latinos | Telemundo  BOSTON HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112855
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo NEW ORLAND" tvg-logo="http://miarea.vip:8080/images/855629a668a82e6da2d1254f0bccf6f9.png" group-title="USA Latinos",USA Latinos | Telemundo NEW ORLAND
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112856
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo ORLANDO FLORIDAD HD" tvg-logo="http://miarea.vip:8080/images/5654f803f1f9c3afdefdd2c4022dcaec.png" group-title="USA Latinos",USA Latinos | Telemundo ORLANDO FLORIDAD HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112857
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo ATLANTA HD" tvg-logo="http://miarea.vip:8080/images/855629a668a82e6da2d1254f0bccf6f9.png" group-title="USA Latinos",USA Latinos | Telemundo ATLANTA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112858
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo CHARLOTTE NORTH CAROLINA HD" tvg-logo="http://miarea.vip:8080/images/03fbdca3dd94b67fdba46e1059ff2fd5.png" group-title="USA Latinos",USA Latinos | Telemundo CHARLOTTE NORTH CAROLINA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112859
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo CHICAGO HD" tvg-logo="http://miarea.vip:8080/images/8fa84c55f1b49be63855329aa157a21f.png" group-title="USA Latinos",USA Latinos | Telemundo CHICAGO HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112860
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo RIO GRANDE HD" tvg-logo="http://miarea.vip:8080/images/855629a668a82e6da2d1254f0bccf6f9.png" group-title="USA Latinos",USA Latinos | Telemundo RIO GRANDE HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112861
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo WASHINGTON HD" tvg-logo="http://miarea.vip:8080/images/f2ed65b0e7aa70affa57af9e4fe82798.png" group-title="USA Latinos",USA Latinos | Telemundo WASHINGTON HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112862
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo COLORADO HD" tvg-logo="http://miarea.vip:8080/images/f2ed65b0e7aa70affa57af9e4fe82798.png" group-title="USA Latinos",USA Latinos | Telemundo COLORADO HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112863
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo DENVER HD" tvg-logo="http://miarea.vip:8080/images/855629a668a82e6da2d1254f0bccf6f9.png" group-title="USA Latinos",USA Latinos | Telemundo DENVER HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112864
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo NEW ORLEANS HD" tvg-logo="http://miarea.vip:8080/images/f2ed65b0e7aa70affa57af9e4fe82798.png" group-title="USA Latinos",USA Latinos | Telemundo NEW ORLEANS HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112865
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo NEBRASKA HD" tvg-logo="http://miarea.vip:8080/images/855629a668a82e6da2d1254f0bccf6f9.png" group-title="USA Latinos",USA Latinos | Telemundo NEBRASKA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112866
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo SAN FRANCISCO HD" tvg-logo="http://miarea.vip:8080/images/855629a668a82e6da2d1254f0bccf6f9.png" group-title="USA Latinos",USA Latinos | Telemundo SAN FRANCISCO HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112867
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo OKLAHOMA HD" tvg-logo="http://miarea.vip:8080/images/855629a668a82e6da2d1254f0bccf6f9.png" group-title="USA Latinos",USA Latinos | Telemundo OKLAHOMA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112868
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo 39 TX HD" tvg-logo="http://miarea.vip:8080/images/855629a668a82e6da2d1254f0bccf6f9.png" group-title="USA Latinos",USA Latinos | Telemundo 39 TX HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112869
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo CENTRAL HD" tvg-logo="http://miarea.vip:8080/images/855629a668a82e6da2d1254f0bccf6f9.png" group-title="USA Latinos",USA Latinos | Telemundo CENTRAL HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112870
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo CONNECTICUT" tvg-logo="http://miarea.vip:8080/images/855629a668a82e6da2d1254f0bccf6f9.png" group-title="USA Latinos",USA Latinos | Telemundo CONNECTICUT
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112871
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo LAS VEGAS HD" tvg-logo="http://miarea.vip:8080/images/855629a668a82e6da2d1254f0bccf6f9.png" group-title="USA Latinos",USA Latinos | Telemundo LAS VEGAS HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112872
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo PHOENIX ARIZONA HD" tvg-logo="http://miarea.vip:8080/images/855629a668a82e6da2d1254f0bccf6f9.png" group-title="USA Latinos",USA Latinos | Telemundo PHOENIX ARIZONA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112873
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo SACRAMENTO CALIFORNIA HD" tvg-logo="http://miarea.vip:8080/images/855629a668a82e6da2d1254f0bccf6f9.png" group-title="USA Latinos",USA Latinos | Telemundo SACRAMENTO CALIFORNIA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112874
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo SALK LAKE CITY HD" tvg-logo="http://miarea.vip:8080/images/855629a668a82e6da2d1254f0bccf6f9.png" group-title="USA Latinos",USA Latinos | Telemundo SALK LAKE CITY HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112875
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo GALVESTON HD" tvg-logo="http://miarea.vip:8080/images/855629a668a82e6da2d1254f0bccf6f9.png" group-title="USA Latinos",USA Latinos | Telemundo GALVESTON HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112876
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo LUBBOCK TX HD" tvg-logo="http://miarea.vip:8080/images/855629a668a82e6da2d1254f0bccf6f9.png" group-title="USA Latinos",USA Latinos | Telemundo LUBBOCK TX HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112877
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo SAN ANTONIO TX HD" tvg-logo="http://miarea.vip:8080/images/855629a668a82e6da2d1254f0bccf6f9.png" group-title="USA Latinos",USA Latinos | Telemundo SAN ANTONIO TX HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112878
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo TAMPA HD" tvg-logo="http://miarea.vip:8080/images/03fbdca3dd94b67fdba46e1059ff2fd5.png" group-title="USA Latinos",USA Latinos | Telemundo TAMPA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112879
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo LOS ANGELES HD" tvg-logo="http://miarea.vip:8080/images/0049d39433c2d9959de3767edd8dd31b.png" group-title="USA Latinos",USA Latinos | Telemundo LOS ANGELES HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112880
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Telemundo PROVIDENCE HD" tvg-logo="http://miarea.vip:8080/images/855629a668a82e6da2d1254f0bccf6f9.png" group-title="USA Latinos",USA Latinos | Telemundo PROVIDENCE HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112881
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Unimas  HD" tvg-logo="http://miarea.vip:8080/images/0d69cae6c9f396158d83ae63a5a31e11.png" group-title="USA Latinos",USA Latinos | Unimas  HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112882
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Unimas NEW YORK HD" tvg-logo="http://miarea.vip:8080/images/0d69cae6c9f396158d83ae63a5a31e11.png" group-title="USA Latinos",USA Latinos | Unimas NEW YORK HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112883
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Unimas LOS ANGELES HD" tvg-logo="http://miarea.vip:8080/images/0d69cae6c9f396158d83ae63a5a31e11.png" group-title="USA Latinos",USA Latinos | Unimas LOS ANGELES HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112884
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Unimas MIAMI HD" tvg-logo="http://miarea.vip:8080/images/0d69cae6c9f396158d83ae63a5a31e11.png" group-title="USA Latinos",USA Latinos | Unimas MIAMI HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112885
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Unimas HOUSTON HD" tvg-logo="http://miarea.vip:8080/images/0d69cae6c9f396158d83ae63a5a31e11.png" group-title="USA Latinos",USA Latinos | Unimas HOUSTON HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112886
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Unimas DALLAS HD" tvg-logo="http://miarea.vip:8080/images/0d69cae6c9f396158d83ae63a5a31e11.png" group-title="USA Latinos",USA Latinos | Unimas DALLAS HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112887
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Unimas ATLANTA HD" tvg-logo="http://miarea.vip:8080/images/0d69cae6c9f396158d83ae63a5a31e11.png" group-title="USA Latinos",USA Latinos | Unimas ATLANTA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112888
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Unimas ALBUQUERQUE SANTA FE HD" tvg-logo="http://miarea.vip:8080/images/0d69cae6c9f396158d83ae63a5a31e11.png" group-title="USA Latinos",USA Latinos | Unimas ALBUQUERQUE SANTA FE HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112889
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Unimas SAN ANTONIO HD" tvg-logo="http://miarea.vip:8080/images/0d69cae6c9f396158d83ae63a5a31e11.png" group-title="USA Latinos",USA Latinos | Unimas SAN ANTONIO HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112890
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Unimas FRESNO HD" tvg-logo="http://miarea.vip:8080/images/0d69cae6c9f396158d83ae63a5a31e11.png" group-title="USA Latinos",USA Latinos | Unimas FRESNO HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112891
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Unimas PHOENIX HD" tvg-logo="http://miarea.vip:8080/images/0d69cae6c9f396158d83ae63a5a31e11.png" group-title="USA Latinos",USA Latinos | Unimas PHOENIX HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112892
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Unimas SACRAMENTO HD" tvg-logo="http://miarea.vip:8080/images/0d69cae6c9f396158d83ae63a5a31e11.png" group-title="USA Latinos",USA Latinos | Unimas SACRAMENTO HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112893
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Unimas CLEVELAND HD" tvg-logo="http://miarea.vip:8080/images/0d69cae6c9f396158d83ae63a5a31e11.png" group-title="USA Latinos",USA Latinos | Unimas CLEVELAND HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112894
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Unimas SALT LAKE HD" tvg-logo="http://miarea.vip:8080/images/0d69cae6c9f396158d83ae63a5a31e11.png" group-title="USA Latinos",USA Latinos | Unimas SALT LAKE HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112895
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Unimas AUSTIN HD" tvg-logo="http://miarea.vip:8080/images/0d69cae6c9f396158d83ae63a5a31e11.png" group-title="USA Latinos",USA Latinos | Unimas AUSTIN HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112896
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | NATGEO MUNDO HD" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/04/nat-geo-mundo-logo.png" group-title="USA Latinos",USA Latinos | NATGEO MUNDO HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112897
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos |  COCINA TV HD" tvg-logo="http://miarea.vip:8080/images/bc7cbb22729f359a5bf44909bd283fe2.png" group-title="USA Latinos",USA Latinos |  COCINA TV HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112898
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | GUSTO TV HD" tvg-logo="http://miarea.vip:8080/images/28055f59e7e6123ab473476d07a966ce.jpg" group-title="USA Latinos",USA Latinos | GUSTO TV HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112899
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | Univision DEPORTES HD P" tvg-logo="http://miarea.vip:8080/images/cee8d8f463115dc4d35084b0f2e53d7c.png" group-title="USA Latinos",USA Latinos | Univision DEPORTES HD P
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112900
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | TUDN DEPORTES USA HD" tvg-logo="http://miarea.vip:8080/images/9ed7bff992d63629a4fdace761679342.png" group-title="USA Latinos",USA Latinos | TUDN DEPORTES USA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112901
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | ESPN DEPORTES USA HD" tvg-logo="http://miarea.vip:8080/images/f61bd7ec5eda590f5ec955e8e3e1d247.png" group-title="USA Latinos",USA Latinos | ESPN DEPORTES USA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112902
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | GOLF SPORTS LATINOAMRICANO HD" tvg-logo="http://miarea.vip:8080/images/a15360dcf36393085f07dc6ae94683b2.png" group-title="USA Latinos",USA Latinos | GOLF SPORTS LATINOAMRICANO HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112903
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | NBC UNIVERSO EAST FHD" tvg-logo="http://miarea.vip:8080/images/faa712db25a724e3ba4a94825e5042f6.png" group-title="USA Latinos",USA Latinos | NBC UNIVERSO EAST FHD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112904
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | NBC UNIVERSO PACIFICO HD" tvg-logo="http://miarea.vip:8080/images/faa712db25a724e3ba4a94825e5042f6.png" group-title="USA Latinos",USA Latinos | NBC UNIVERSO PACIFICO HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112905
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | FOX DEPORTES HD**" tvg-logo="http://miarea.vip:8080/images/2e511e301484c4b3471dd8969d92aa25.png" group-title="USA Latinos",USA Latinos | FOX DEPORTES HD**
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/112906
+#EXTINF:-1 tvg-id="" tvg-name="USA Latinos | America Teve" tvg-logo="https://i.imgur.com/GiPcp8i.png" group-title="USA Latinos",USA Latinos | America Teve
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/117704
+#EXTINF:-1 tvg-id="Canal Antena 3" tvg-name="Espana | Antena 3" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/antena-3.png" group-title="Entretenimiento",Espana | Antena 3
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/607
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="Espana | Barca TV" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/barca-tv.png" group-title="Deportes",Espana | Barca TV
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/120
+#EXTINF:-1 tvg-id="toros.es" tvg-name="Espana | Canal Toros" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/toros-tv.png" group-title="Deportes",Espana | Canal Toros
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/121
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="Espana | Movistar Deportes 1" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/movistar-deportes.png" group-title="Deportes",Espana | Movistar Deportes 1
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/125
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="Espana | Movistar Formula 1" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/movistar-formula1.png" group-title="Deportes",Espana | Movistar Formula 1
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/126
+#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="Espana | Movistar Futbol" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/movistar-futbol.png" group-title="Deportes",Espana | Movistar Futbol
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/127
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="Espana | Movistar Golf" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/movistar-golf.png" group-title="Deportes",Espana | Movistar Golf
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/128
+#EXTINF:-1 tvg-id="" tvg-name="Espana | Movistar MotoGP" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/movistar-motogp.png" group-title="Deportes",Espana | Movistar MotoGP
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/129
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="Espana | Real Madrid TV" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/real-madrid-tv.png" group-title="Deportes",Espana | Real Madrid TV
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/130
+#EXTINF:-1 tvg-id="EPG123.91225.schedulesdirect.org" tvg-name="Espana | Teledeporte" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/teledeporte.png" group-title="Deportes",Espana | Teledeporte
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/131
+#EXTINF:-1 tvg-id="" tvg-name="Espana | LA RESISTENCIA HD" tvg-logo="" group-title="Espana",Espana | LA RESISTENCIA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105769
+#EXTINF:-1 tvg-id="" tvg-name="Espana | 24 HRS HD" tvg-logo="" group-title="Espana",Espana | 24 HRS HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105770
+#EXTINF:-1 tvg-id="" tvg-name="Espana | LA 1 HD" tvg-logo="" group-title="Espana",Espana | LA 1 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105771
+#EXTINF:-1 tvg-id="" tvg-name="Espana | LA 2 HD" tvg-logo="" group-title="Espana",Espana | LA 2 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105772
+#EXTINF:-1 tvg-id="" tvg-name="Espana | LA CUATRO HD" tvg-logo="" group-title="Espana",Espana | LA CUATRO HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105773
+#EXTINF:-1 tvg-id="" tvg-name="Espana | TELECINCO HD" tvg-logo="" group-title="Espana",Espana | TELECINCO HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105774
+#EXTINF:-1 tvg-id="" tvg-name="Espana | LA SEXTA HD" tvg-logo="" group-title="Espana",Espana | LA SEXTA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105775
+#EXTINF:-1 tvg-id="" tvg-name="Espana | ANTENA INTERNACIONAL" tvg-logo="" group-title="Espana",Espana | ANTENA INTERNACIONAL
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105776
+#EXTINF:-1 tvg-id="" tvg-name="Espana | CALLE 13 HD" tvg-logo="" group-title="Espana",Espana | CALLE 13 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105777
+#EXTINF:-1 tvg-id="" tvg-name="Espana | COCINA FHD" tvg-logo="" group-title="Espana",Espana | COCINA FHD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105778
+#EXTINF:-1 tvg-id="" tvg-name="Espana | COSMOS FHD" tvg-logo="" group-title="Espana",Espana | COSMOS FHD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105779
+#EXTINF:-1 tvg-id="" tvg-name="Espana | FOX CHANNEL HD" tvg-logo="" group-title="Espana",Espana | FOX CHANNEL HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105780
+#EXTINF:-1 tvg-id="" tvg-name="Espana | TNT HD" tvg-logo="" group-title="Espana",Espana | TNT HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105781
+#EXTINF:-1 tvg-id="" tvg-name="Espana | TV GALICIA HD" tvg-logo="" group-title="Espana",Espana | TV GALICIA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105782
+#EXTINF:-1 tvg-id="" tvg-name="Espana | DIVINITY HD" tvg-logo="" group-title="Espana",Espana | DIVINITY HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105783
+#EXTINF:-1 tvg-id="" tvg-name="Espana | FDF HD" tvg-logo="" group-title="Espana",Espana | FDF HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105784
+#EXTINF:-1 tvg-id="" tvg-name="Espana | NEOX TV HD" tvg-logo="" group-title="Espana",Espana | NEOX TV HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105785
+#EXTINF:-1 tvg-id="" tvg-name="Espana | LA MEGA FHD  1080P" tvg-logo="" group-title="Espana",Espana | LA MEGA FHD  1080P
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105786
+#EXTINF:-1 tvg-id="" tvg-name="Espana | LA MEGA FHD" tvg-logo="" group-title="Espana",Espana | LA MEGA FHD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105787
+#EXTINF:-1 tvg-id="" tvg-name="Espana | MEGA HD 720P" tvg-logo="" group-title="Espana",Espana | MEGA HD 720P
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105788
+#EXTINF:-1 tvg-id="" tvg-name="Espana | NOVA HD" tvg-logo="" group-title="Espana",Espana | NOVA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105789
+#EXTINF:-1 tvg-id="" tvg-name="Espana | ODISEA HD" tvg-logo="" group-title="Espana",Espana | ODISEA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105790
+#EXTINF:-1 tvg-id="" tvg-name="Espana | ENERGY HD" tvg-logo="" group-title="Espana",Espana | ENERGY HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105791
+#EXTINF:-1 tvg-id="" tvg-name="Espana | BE MAD HD" tvg-logo="" group-title="Espana",Espana | BE MAD HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105792
+#EXTINF:-1 tvg-id="" tvg-name="Espana | MTMAD 24HRS" tvg-logo="" group-title="Espana",Espana | MTMAD 24HRS
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105793
+#EXTINF:-1 tvg-id="" tvg-name="Espana | BOING HD" tvg-logo="" group-title="Espana",Espana | BOING HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105794
+#EXTINF:-1 tvg-id="" tvg-name="Espana | PANDA HD" tvg-logo="" group-title="Espana",Espana | PANDA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105795
+#EXTINF:-1 tvg-id="" tvg-name="Espana | NICKELEODEON HD" tvg-logo="" group-title="Espana",Espana | NICKELEODEON HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105796
+#EXTINF:-1 tvg-id="" tvg-name="Espana | DISNEY CHANNEL HD" tvg-logo="" group-title="Espana",Espana | DISNEY CHANNEL HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105797
+#EXTINF:-1 tvg-id="" tvg-name="Espana | DISNEY JR HD" tvg-logo="" group-title="Espana",Espana | DISNEY JR HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105798
+#EXTINF:-1 tvg-id="" tvg-name="Espana | DISNEY PLUS HD" tvg-logo="" group-title="Espana",Espana | DISNEY PLUS HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105799
+#EXTINF:-1 tvg-id="" tvg-name="Espana | NICK JR HD" tvg-logo="" group-title="Espana",Espana | NICK JR HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105800
+#EXTINF:-1 tvg-id="" tvg-name="Espana | BABY TV HD" tvg-logo="" group-title="Espana",Espana | BABY TV HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105801
+#EXTINF:-1 tvg-id="" tvg-name="Espana | DMAX HD" tvg-logo="" group-title="Espana",Espana | DMAX HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105802
+#EXTINF:-1 tvg-id="" tvg-name="Espana | CAZA & PESCA HD" tvg-logo="" group-title="Espana",Espana | CAZA & PESCA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105803
+#EXTINF:-1 tvg-id="" tvg-name="Espana | CAZAVISION HD" tvg-logo="" group-title="Espana",Espana | CAZAVISION HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105804
+#EXTINF:-1 tvg-id="" tvg-name="Espana | HISTORIA HD" tvg-logo="" group-title="Espana",Espana | HISTORIA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105805
+#EXTINF:-1 tvg-id="" tvg-name="Espana | DISCOVERY CHANNEL HD" tvg-logo="" group-title="Espana",Espana | DISCOVERY CHANNEL HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105806
+#EXTINF:-1 tvg-id="" tvg-name="Espana | NATIONAL GEOGRAFHY WILD FHD" tvg-logo="" group-title="Espana",Espana | NATIONAL GEOGRAFHY WILD FHD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105807
+#EXTINF:-1 tvg-id="" tvg-name="Espana | NATIONAL GEOGRAFIC FHD" tvg-logo="" group-title="Espana",Espana | NATIONAL GEOGRAFIC FHD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105808
+#EXTINF:-1 tvg-id="" tvg-name="Espana | NATGEO WILD HD" tvg-logo="" group-title="Espana",Espana | NATGEO WILD HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105809
+#EXTINF:-1 tvg-id="" tvg-name="Espana | AMC HD" tvg-logo="" group-title="Espana",Espana | AMC HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105810
+#EXTINF:-1 tvg-id="" tvg-name="Espana | ATRES SERIES HD" tvg-logo="" group-title="Espana",Espana | ATRES SERIES HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105811
+#EXTINF:-1 tvg-id="" tvg-name="Espana | AXN WHITE FHD*" tvg-logo="" group-title="Espana",Espana | AXN WHITE FHD*
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105812
+#EXTINF:-1 tvg-id="" tvg-name="Espana | AXN FHD" tvg-logo="" group-title="Espana",Espana | AXN FHD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105813
+#EXTINF:-1 tvg-id="" tvg-name="Espana | FOX LIFE HD" tvg-logo="" group-title="Espana",Espana | FOX LIFE HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105814
+#EXTINF:-1 tvg-id="" tvg-name="Espana | HOLLYWOOD HD" tvg-logo="" group-title="Espana",Espana | HOLLYWOOD HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105815
+#EXTINF:-1 tvg-id="" tvg-name="Espana | SYFY FHD" tvg-logo="" group-title="Espana",Espana | SYFY FHD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105816
+#EXTINF:-1 tvg-id="" tvg-name="Espana | DARK HD" tvg-logo="" group-title="Espana",Espana | DARK HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105817
+#EXTINF:-1 tvg-id="" tvg-name="Espana | BOM CINE HD" tvg-logo="" group-title="Espana",Espana | BOM CINE HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105818
+#EXTINF:-1 tvg-id="" tvg-name="Espana | MOVISTAR ACCION HD" tvg-logo="" group-title="Espana",Espana | MOVISTAR ACCION HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105819
+#EXTINF:-1 tvg-id="" tvg-name="Espana | MOVISTAR D CINE HD" tvg-logo="" group-title="Espana",Espana | MOVISTAR D CINE HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105820
+#EXTINF:-1 tvg-id="" tvg-name="Espana | MOVISTAR CINE HD" tvg-logo="" group-title="Espana",Espana | MOVISTAR CINE HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105821
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M. SAGAS HD" tvg-logo="" group-title="Espana",Espana | M. SAGAS HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105822
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M+ DRAMA HD" tvg-logo="" group-title="Espana",Espana | M+ DRAMA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105823
+#EXTINF:-1 tvg-id="" tvg-name="Espana | MOVISTAR SERIEMANIA HD" tvg-logo="" group-title="Espana",Espana | MOVISTAR SERIEMANIA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105824
+#EXTINF:-1 tvg-id="" tvg-name="Espana | MOVISTAR SERIES HD" tvg-logo="" group-title="Espana",Espana | MOVISTAR SERIES HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105825
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M+ COMEDIA HD" tvg-logo="" group-title="Espana",Espana | M+ COMEDIA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105826
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M+ ESTRENOS HD" tvg-logo="" group-title="Espana",Espana | M+ ESTRENOS HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105827
+#EXTINF:-1 tvg-id="" tvg-name="Espana |  M+ FEST HD" tvg-logo="" group-title="Espana",Espana |  M+ FEST HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105828
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M+ ESPAÃ‘OL HD" tvg-logo="" group-title="Espana",Espana | M+ ESPAÃ‘OL HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105829
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M+ CLASSICOS HD" tvg-logo="" group-title="Espana",Espana | M+ CLASSICOS HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105830
+#EXTINF:-1 tvg-id="" tvg-name="Espana | CINE DOC&ROLL HD" tvg-logo="" group-title="Espana",Espana | CINE DOC&ROLL HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105831
+#EXTINF:-1 tvg-id="" tvg-name="Espana | CLAN TVE HD" tvg-logo="" group-title="Espana",Espana | CLAN TVE HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105832
+#EXTINF:-1 tvg-id="" tvg-name="Espana | CANAL COCINA" tvg-logo="" group-title="Espana",Espana | CANAL COCINA
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105833
+#EXTINF:-1 tvg-id="" tvg-name="Espana | TEN CHANNEL HD" tvg-logo="" group-title="Espana",Espana | TEN CHANNEL HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105834
+#EXTINF:-1 tvg-id="" tvg-name="Espana | LA OTRA TV HD" tvg-logo="" group-title="Espana",Espana | LA OTRA TV HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105835
+#EXTINF:-1 tvg-id="" tvg-name="Espana | EURONEWS HD" tvg-logo="" group-title="Espana",Espana | EURONEWS HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105836
+#EXTINF:-1 tvg-id="" tvg-name="Espana | CANAL DE CASA HD" tvg-logo="" group-title="Espana",Espana | CANAL DE CASA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105837
+#EXTINF:-1 tvg-id="" tvg-name="Espana | MOVISTAR MOTO GP HD" tvg-logo="" group-title="Espana",Espana | MOVISTAR MOTO GP HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105838
+#EXTINF:-1 tvg-id="" tvg-name="Espana |  FORMULA 1 HD" tvg-logo="" group-title="Espana",Espana |  FORMULA 1 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105839
+#EXTINF:-1 tvg-id="" tvg-name="Espana | MOTORVISION HD" tvg-logo="" group-title="Espana",Espana | MOTORVISION HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105840
+#EXTINF:-1 tvg-id="" tvg-name="Espana | TDP HD" tvg-logo="" group-title="Espana",Espana | TDP HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105841
+#EXTINF:-1 tvg-id="" tvg-name="Espana | TOROS HD" tvg-logo="" group-title="Espana",Espana | TOROS HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105842
+#EXTINF:-1 tvg-id="" tvg-name="Espana | F1 HD" tvg-logo="" group-title="Espana",Espana | F1 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105843
+#EXTINF:-1 tvg-id="" tvg-name="Espana | #0 SPORTS  FHD" tvg-logo="" group-title="Espana",Espana | #0 SPORTS  FHD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105844
+#EXTINF:-1 tvg-id="" tvg-name="Espana | #V HD" tvg-logo="" group-title="Espana",Espana | #V HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105845
+#EXTINF:-1 tvg-id="" tvg-name="Espana | VAMOS SPORTS HD*" tvg-logo="" group-title="Espana",Espana | VAMOS SPORTS HD*
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105846
+#EXTINF:-1 tvg-id="" tvg-name="Espana | GOLTV HD" tvg-logo="" group-title="Espana",Espana | GOLTV HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105847
+#EXTINF:-1 tvg-id="" tvg-name="Espana | DAZN 1 HD" tvg-logo="" group-title="Espana",Espana | DAZN 1 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105848
+#EXTINF:-1 tvg-id="" tvg-name="Espana | DAZN 2 HD" tvg-logo="" group-title="Espana",Espana | DAZN 2 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105849
+#EXTINF:-1 tvg-id="" tvg-name="Espana | DAZN3 HD" tvg-logo="" group-title="Espana",Espana | DAZN3 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105850
+#EXTINF:-1 tvg-id="" tvg-name="Espana | DAZN 4 HD" tvg-logo="" group-title="Espana",Espana | DAZN 4 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105851
+#EXTINF:-1 tvg-id="" tvg-name="Espana | DAZN F1 HD" tvg-logo="" group-title="Espana",Espana | DAZN F1 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105852
+#EXTINF:-1 tvg-id="" tvg-name="Espana | MOVISTAR LA LIGA HD" tvg-logo="" group-title="Espana",Espana | MOVISTAR LA LIGA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105853
+#EXTINF:-1 tvg-id="" tvg-name="Espana | LA LIGA TV BAR FULL HD" tvg-logo="" group-title="Espana",Espana | LA LIGA TV BAR FULL HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105854
+#EXTINF:-1 tvg-id="" tvg-name="Espana | MOVISTAR LIGA HD" tvg-logo="" group-title="Espana",Espana | MOVISTAR LIGA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105855
+#EXTINF:-1 tvg-id="" tvg-name="Espana | MOVISTAR LA LIGA HD 1" tvg-logo="" group-title="Espana",Espana | MOVISTAR LA LIGA HD 1
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105856
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M.LIGA DE CAMPEEONES HD" tvg-logo="" group-title="Espana",Espana | M.LIGA DE CAMPEEONES HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105857
+#EXTINF:-1 tvg-id="" tvg-name="Espana | MOVISTA LIGA DE CAMPEONES HD" tvg-logo="" group-title="Espana",Espana | MOVISTA LIGA DE CAMPEONES HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105858
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M.LIGA CAMPEONES 1 FHD" tvg-logo="" group-title="Espana",Espana | M.LIGA CAMPEONES 1 FHD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105859
+#EXTINF:-1 tvg-id="" tvg-name="Espana | MOVISTAR LIGA CAMPEONES 2 HD" tvg-logo="" group-title="Espana",Espana | MOVISTAR LIGA CAMPEONES 2 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105860
+#EXTINF:-1 tvg-id="" tvg-name="Espana | MOVISTAR LIGA CAMPEONES 3 HD" tvg-logo="" group-title="Espana",Espana | MOVISTAR LIGA CAMPEONES 3 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105861
+#EXTINF:-1 tvg-id="" tvg-name="Espana | MOVISTAR LIGA CAMPEONES 4 HD" tvg-logo="" group-title="Espana",Espana | MOVISTAR LIGA CAMPEONES 4 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105862
+#EXTINF:-1 tvg-id="" tvg-name="Espana | MOVISTAR LIGA CAMPEONES 5 HD" tvg-logo="" group-title="Espana",Espana | MOVISTAR LIGA CAMPEONES 5 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105863
+#EXTINF:-1 tvg-id="" tvg-name="Espana | MOVISTAR LIGA CAMPEONES 6 HD" tvg-logo="" group-title="Espana",Espana | MOVISTAR LIGA CAMPEONES 6 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105864
+#EXTINF:-1 tvg-id="" tvg-name="Espana | MOVISTAR LIGA CAMPEONES 7 HD" tvg-logo="" group-title="Espana",Espana | MOVISTAR LIGA CAMPEONES 7 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105865
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M.LIGA DE CAMPEONES 8 HD" tvg-logo="" group-title="Espana",Espana | M.LIGA DE CAMPEONES 8 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105866
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M.LIGA DE CAMPEONES 9 HD" tvg-logo="" group-title="Espana",Espana | M.LIGA DE CAMPEONES 9 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105867
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M.LIGA CAMPEONES 10 HD" tvg-logo="" group-title="Espana",Espana | M.LIGA CAMPEONES 10 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105868
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M.LIGA DE CAMPEONES 11 HD" tvg-logo="" group-title="Espana",Espana | M.LIGA DE CAMPEONES 11 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105869
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M.LIGA DE CAMPEONES 12 HD" tvg-logo="" group-title="Espana",Espana | M.LIGA DE CAMPEONES 12 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105870
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M+ DEPORTES 1 HD" tvg-logo="" group-title="Espana",Espana | M+ DEPORTES 1 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105871
+#EXTINF:-1 tvg-id="" tvg-name="Espana | EUROSPORTS 1 HD" tvg-logo="" group-title="Espana",Espana | EUROSPORTS 1 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105872
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M+ DEPORTES 2 HD" tvg-logo="" group-title="Espana",Espana | M+ DEPORTES 2 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105873
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M+ DEPORTES 3 HD" tvg-logo="" group-title="Espana",Espana | M+ DEPORTES 3 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105874
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M+ DEPORTES 4 HD" tvg-logo="" group-title="Espana",Espana | M+ DEPORTES 4 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105875
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M+ DEPORTES 5 HD" tvg-logo="" group-title="Espana",Espana | M+ DEPORTES 5 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105876
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M+ DEPORTES 6 HD" tvg-logo="" group-title="Espana",Espana | M+ DEPORTES 6 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105877
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M.LA LIGA 2" tvg-logo="" group-title="Espana",Espana | M.LA LIGA 2
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105878
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M.LA LIGA 3 HD" tvg-logo="" group-title="Espana",Espana | M.LA LIGA 3 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105879
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M.LA LIGA 4 HD" tvg-logo="" group-title="Espana",Espana | M.LA LIGA 4 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105880
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M.LA LIGA 5 HD" tvg-logo="" group-title="Espana",Espana | M.LA LIGA 5 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105881
+#EXTINF:-1 tvg-id="" tvg-name="Espana | COMEDY CENTRAL HD" tvg-logo="" group-title="Espana",Espana | COMEDY CENTRAL HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105882
+#EXTINF:-1 tvg-id="" tvg-name="Espana | M_#0 HD" tvg-logo="" group-title="Espana",Espana | M_#0 HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105883
+#EXTINF:-1 tvg-id="" tvg-name="Espana | MTV HD" tvg-logo="" group-title="Espana",Espana | MTV HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105884
+#EXTINF:-1 tvg-id="" tvg-name="Espana | TVG EUROPA HD" tvg-logo="" group-title="Espana",Espana | TVG EUROPA HD
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/105885
+#EXTINF:-1 tvg-id="" tvg-name="Espana | Mundo Toro" tvg-logo="https://i.imgur.com/Y8Aebog.jpg" group-title="Espana",Espana | Mundo Toro
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/116352
+#EXTINF:-1 tvg-id="megatv.us" tvg-name="Puerto Rico | Mega TV" tvg-logo="http://51.79.20.23/logos-fussion-smarters/mega-tv.jpg" group-title="Puerto Rico",Puerto Rico | Mega TV
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/132
+#EXTINF:-1 tvg-id="" tvg-name="Puerto Rico | Telemundo" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/telemundo-pr.png" group-title="Puerto Rico",Puerto Rico | Telemundo
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/134
+#EXTINF:-1 tvg-id="univisionwlii.us" tvg-name="Puerto Rico | Univision" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/univision-pr.png" group-title="Puerto Rico",Puerto Rico | Univision
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/135
+#EXTINF:-1 tvg-id="wapatv.us" tvg-name="Puerto Rico | WAPA" tvg-logo="http://51.79.20.23/logos-fussion-smarters/wapa-pr.png" group-title="Puerto Rico",Puerto Rico | WAPA
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/136
+#EXTINF:-1 tvg-id="wapa2deportes.us" tvg-name="Puerto Rico | WAPA 2" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/wapa-2.png" group-title="Puerto Rico",Puerto Rico | WAPA 2
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/137
+#EXTINF:-1 tvg-id="247.news.ktft.dt8.twin.falls.id.us" tvg-name="Puerto Rico | WIPR" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/wipr.png" group-title="Puerto Rico",Puerto Rico | WIPR
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/138
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB | MLB Network" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/mlb-network-2.png" group-title="MLB",MLB | MLB Network
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/364
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL | NFL Network" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/nfl-network-2.png" group-title="NFL",NFL | NFL Network
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/330
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL | NHL Network" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/nhl-network.png" group-title="NHL",NHL | NHL Network
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/437
+#EXTINF:-1 tvg-id="ufcnetwork.us" tvg-name="PPV | UFC TV" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/ufc-network.png" group-title="UFC",PPV | UFC TV
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/453
+#EXTINF:-1 tvg-id="WWE.us" tvg-name="PPV | WWE Network" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/wwe.png" group-title="WWE",PPV | WWE Network
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/269
+#EXTINF:-1 tvg-id="beinsportsxtra.us" tvg-name="USA Latinos | Bein Sports Xtra" tvg-logo="http://51.79.20.23/logos-fussion-nuevos/bein-sports-xtra.png" group-title="USA Sports",USA Latinos | Bein Sports Xtra
+http://tilinki.com:25461/zona-tv-envivo/4bKjvrs5Z9/85048
